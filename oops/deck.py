@@ -1,3 +1,3 @@
-// Main started
+// Main program started
 main(){
 }
